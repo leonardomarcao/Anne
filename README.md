@@ -1,2 +1,2 @@
 # Anne
-Facial recognition with computer vision in IoT environment
+Facial recognition using computer vision in IoT environment
