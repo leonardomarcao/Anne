@@ -1,4 +1,3 @@
-""" Send File Using MQTT """
 import time
 import paho.mqtt.client as paho
 import paho.mqtt.publish as publish
@@ -23,7 +22,7 @@ topic="anne/nightvision" #topic
 qos=1 #QoS
 data_block_size=268435455 #data block size of payload
 
-
+#process_message
 def process_message(msg):
    """ This is the main receiver code
    """
@@ -52,6 +51,7 @@ def process_message(msg):
       in_hash_md5.update(msg)
       print("found data bytes= ",bytes_in)
       return True
+   
 #define callback
 def on_message(client, userdata, message):
    #time.sleep(1)
@@ -64,6 +64,7 @@ def on_message(client, userdata, message):
       run_flag=False #exit receive loop
       print("complete file received")
 
+#predict
 def predict(X_img_path, knn_clf=None, model_path=None, distance_threshold=0.6):
     """
     Recognizes faces in given image using a trained KNN classifier
@@ -104,7 +105,7 @@ def predict(X_img_path, knn_clf=None, model_path=None, distance_threshold=0.6):
     # Predict classes and remove classifications that aren't within the threshold
     return [(pred, loc) if rec else ("unknown", loc) for pred, loc, rec in zip(knn_clf.predict(faces_encodings), X_face_locations, are_matches)]
 
-
+#show_prediction_labels_on_image
 def show_prediction_labels_on_image(img_path, predictions):
     """
     Shows the face recognition results visually.
@@ -145,7 +146,6 @@ def goodbye():
     finally:
         print("terminate")
 
-
 while True:   
     i=random.randrange(0, 101, 2)
     file_out="copy"+str(i)+filename
@@ -170,9 +170,7 @@ while True:
     pass
     client.disconnect() #disconnect
     #client.loop_stop() #stop loop
-    
-    
-
+        
     if __name__ == "__main__":
         # STEP 2: Using the trained classifier, make predictions for unknown images
         image_file = file_out
