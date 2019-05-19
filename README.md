@@ -10,17 +10,12 @@
 
 ### Face Recognition 
 <p align="center">
-  <img src="https://i.imgur.com/syguZXT.png" alt=""><br>  
+  <img src="https://i.imgur.com/WRLBOva.png" alt=""><br>  
 </p>
 
 ### Mqtt
 <p align="center">
   <img src="https://i.imgur.com/sk6Qi4n.png" alt=""><br>  
-</p>
-
-### PFA - Table View Receita with Receita Registration
-<p align="center">
-  <img src="https://i.imgur.com/Fxn1M7Z.png" alt=""><br>  
 </p>
 
 ## About
