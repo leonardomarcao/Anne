@@ -1,10 +1,8 @@
 # [Anne Page](https://mqttaps.ga/)
 
-[Identificação](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
-
 ## Preview
 
-[![Resume Preview](https://mqttaps.ga/img/1.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://mqttaps.ga/img/1.jpg)]
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
@@ -29,10 +27,6 @@ After installation, run `npm install` and then run `npm start` which will open u
 - `gulp vendor` copies dependencies from node_modules to the vendor directory
 
 You must have npm and Gulp installed globally on your machine in order to use these features.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
 
 ## Copyright and License
 
