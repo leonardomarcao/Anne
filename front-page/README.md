@@ -2,9 +2,7 @@
 
 ## Preview
 
-[![Resume Preview](https://mqttaps.ga/img/1.jpg)]
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](http://www.mqttaps.ga/?id=1)**
 
 ## Status
 
