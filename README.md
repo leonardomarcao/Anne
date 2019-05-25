@@ -5,22 +5,22 @@
 
 <!-- ![](https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif" alt=""><br>  
+  <img src="https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif" alt="">  
 </p>
 
-### Raspberry Pi 3 and Night Vision Camera
+#### Raspberry Pi 3 and Night Vision Camera
 <p align="center">
-  <img src="https://i.imgur.com/plUrJV1.png" alt=""><br>  
+  <img src="https://i.imgur.com/plUrJV1.png" alt="">  
 </p>
 
-### Face Recognition (Prediction on image)
+#### Face Recognition (Prediction on image)
 <p align="center">
-  <img src="https://i.imgur.com/WRLBOva.png" alt=""><br>  
+  <img src="https://i.imgur.com/WRLBOva.png" alt="">  
 </p>
 
-### Mqtt (MQTTv311) (Publisher and Subscriber)
+#### Mqtt (MQTTv311) (Publisher and Subscriber)
 <p align="center">
-  <img src="https://i.imgur.com/sk6Qi4n.png" alt=""><br>  
+  <img src="https://i.imgur.com/sk6Qi4n.png" alt="">  
 </p>
 
 ## About
