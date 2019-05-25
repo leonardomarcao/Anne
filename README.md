@@ -6,7 +6,7 @@
 <!-- ![](https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif) -->
 <p align="center">
   <img src="https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif" alt=""><br>
-  <a href="https://www.youtube.com/watch?v=YQThtCro">Demonstration video (PT-BR)</a>
+  <a href="https://www.youtube.com/watch?v=YQThtCro" target="_blank">https://www.youtube.com/watch?v=YQThtCro</a>(PT-BR)
 </p>
 
 
