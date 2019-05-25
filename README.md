@@ -3,17 +3,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d113af0da84b4ab9b17b8ffc29c58ecf?branch=admin-javafx)(https://app.codacy.com/project/leonardomarcao/PFA/dashboard) -->
 
-### Night Vision Camera
+![](https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif)
+
+### Raspberry Pi 3 and Night Vision Camera
 <p align="center">
   <img src="https://i.imgur.com/plUrJV1.png" alt=""><br>  
 </p>
 
-### Face Recognition 
+### Face Recognition (Prediction on image)
 <p align="center">
   <img src="https://i.imgur.com/WRLBOva.png" alt=""><br>  
 </p>
 
-### Mqtt
+### Mqtt (MQTTv311) (Publisher and Subscriber)
 <p align="center">
   <img src="https://i.imgur.com/sk6Qi4n.png" alt=""><br>  
 </p>
