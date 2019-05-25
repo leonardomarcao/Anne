@@ -46,7 +46,7 @@ Residential security system which uses a night vision camera connected to a rasp
 
 MIT License
 
-Copyright (c) 2019 Leonardo Marcão and Breno Osvaldo
+Copyright (c) 2019 Leonardo Marcão; Breno Osvaldo; Bernardo Domeneghetti
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
