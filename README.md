@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d113af0da84b4ab9b17b8ffc29c58ecf?branch=admin-javafx)(https://app.codacy.com/project/leonardomarcao/PFA/dashboard) -->
 
+Residential security system which uses a night vision camera connected to a raspberry pi 3 to monitor access to an electronic lock. The project was carried out using the mqtt protocol, and the purpose of this project is to show the possibility of creating an application at low cost, even if it is not a recommended protocol for it. Facial recognition is performed through an API which uses a knowledge base previously trained with the histograms and, afterwards, does a search using KNN algorithm.
+
 <!-- ![](https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif) -->
 <p align="center">
   <img src="https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif" alt=""><br>
