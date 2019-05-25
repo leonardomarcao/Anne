@@ -3,7 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d113af0da84b4ab9b17b8ffc29c58ecf?branch=admin-javafx)(https://app.codacy.com/project/leonardomarcao/PFA/dashboard) -->
 
-![](https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif)
+<!-- ![](https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/9V1vE2tcp0T0BoHaGx/giphy.gif" alt=""><br>  
+</p>
 
 ### Raspberry Pi 3 and Night Vision Camera
 <p align="center">
