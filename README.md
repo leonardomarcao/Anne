@@ -1,5 +1,5 @@
 ## Anne - Face recognition using computer vision in IoT enviroment
-
+https://www.youtube.com/watch?v=YQThtCro
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d113af0da84b4ab9b17b8ffc29c58ecf?branch=admin-javafx)(https://app.codacy.com/project/leonardomarcao/PFA/dashboard) -->
 
@@ -36,8 +36,6 @@ Residential security system which uses a night vision camera connected to a rasp
 * Paho-Mqtt (https://pypi.org/project/paho-mqtt/#installation/)
 * PiCamera (https://picamera.readthedocs.io/en/release-1.13/install.html)
 * MQTT Dash (IoT, Smart Home) – Apps Google Play
-
-### Setting Up Anne Project
 
 ## License 
 
